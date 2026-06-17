@@ -32,9 +32,13 @@ AWS SQS / ECS Fargate / S3 / CloudWatch.
 Full-stack student management portal with JWT authentication.
 `Node.js` `MySQL` `JWT`
 
-**[Book Management App](https://github.com/Arfangalib/SQLLiteFrontEnd)**
-React + SQLite app with backend API routes and React Router.
-`React` `SQLite` `REST API`
+**[AI Study Copilot](https://github.com/Arfangalib/ai-study-copilot)** · [Live Demo](https://ai-study-copilot-cyan.vercel.app/)
+A grounded study assistant that answers only from your uploaded notes with
+citations, or refuses to hallucinate when the answer isn't there. Includes a
+Bug Hunt mode and a live evaluation dashboard that measures grounding quality
+(citation precision, refusal accuracy, answer support). Built as a focused
+demonstration of trustworthy, enterprise-style AI.
+`Next.js` `TypeScript` `pgvector` `OpenAI` `RAG` `Drizzle` `Vitest` `Playwright`
 
 ---
 
